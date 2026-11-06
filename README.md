@@ -2,4 +2,6 @@
 
 ## Description
 
-Fake shop website to 'sell' the 3d model of a spaceship I created 
+A website to showcase the 3d model of a spaceship I created in 2023
+
+link: https://malachi-h.github.io/
